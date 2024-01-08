@@ -1,0 +1,33 @@
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+}
+.header-div1{
+    margin:0 auto;
+    max-width: 1320px;
+    height: 600px;
+    position: relative;
+    margin-top:50px;
+    background:#070211;
+   
+}
+.header-div2{
+    color:#fff;
+    text-align: center;
+    position: absolute;
+    top:22%;
+    right:13%;
+    left:7%;
+    
+}
+.header-div-3{
+    font-size: 32px;
+    margin-bottom:10px;
+}
+.header-div4{
+    font-size:72px;
+    margin-top:0px;
+    font-weight: 900px;
+    padding-left:130px;
+    padding-right:50px; 
+}
