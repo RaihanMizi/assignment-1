@@ -83,8 +83,6 @@ body {
   margin-top: 24px;
   margin-bottom: 40px;
 }
-.midnight-main1 {
-}
 .main-div8 {
   padding: 76px 0px 67px 0;
 }
@@ -126,14 +124,11 @@ body {
     align-items: center;
     margin-bottom:0px;
 }
-.main-div-12{
-}
 .main-div-13{
     color: #F00;
     font-size: 24px;
     font-weight: 500;
     margin-bottom:0px;
-
 }
 .main-div-14{
     color: #070211;
@@ -152,7 +147,6 @@ body {
     border: 15px solid #F00;
     border-radius:50%;
     padding:43px;
-
 }
 .main-div-16{
     color: #F00;
@@ -168,11 +162,9 @@ body {
     margin-bottom:0px;
 }
 .main-div-img-18{
-    margin-top:43px;
-   
+    margin-top:43px;  
 }
 /*  */
-
 .img-section12{
   max-width:1320px;
   margin:0 auto;
@@ -234,7 +226,14 @@ body {
   font-size: 20px;
   font-weight: 400;
   margin-top:22px;
+/* 6product and text formating done */
+.last-main-tag{
+    max-width: 1320px;
+    margin: 0 auto;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin-top: 120px;
+    padding: 80px 0px;
+    text-align: center;
+    margin-bottom: 0px;
 }
-
-
-
