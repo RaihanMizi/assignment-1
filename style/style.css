@@ -113,6 +113,8 @@ body {
    border-radius:8px;
    border:0px;
    font-weight:700;
+   margin-top:20px;
+
 }
 /* section over */
 .main-div-11{
@@ -238,13 +240,12 @@ body {
     padding: 80px 0px;
     margin-bottom: 0px;
 }
-.button-section {
+.text-some12{
   color: #070211;
   font-weight: 900;
   font-size: 48px;
   margin-top: 40px;
   margin-bottom: 0px;
-  
 }
 
 .paragraph-last{
@@ -261,9 +262,7 @@ body {
   border: 0px;
   border-top-right-radius: 0px;
   border-bottom-right-radius: 0px;
- 
 }
-
 .btn-last{
   background: #F00;
   border-radius: 0px 50px 50px 0px;
@@ -283,13 +282,13 @@ footer{
   margin-top: 120px;
   color:#FFF;
   font-size: 24px;
-  
+  padding-left:100px;
 }
 .footer-div1{
   display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 50px;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 50px;
 }
 .footer-section{
   max-width: 1320px;
@@ -297,12 +296,11 @@ footer{
 }
 .icon-text{
   display: flex;
-  gap: 16px;
+  gap: 10px;
   align-items: center;
   font-size: 24px;
   font-weight: 500;
-  margin-right:200px;
-
+  padding-right:100px;
 }
 .some-icon{
   display: flex;
@@ -311,7 +309,6 @@ footer{
   align-items: center;
   margin-top: 48px;
   margin-bottom: 48px;
-  
 }
 .some-text{
   display: flex;
